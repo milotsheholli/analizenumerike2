@@ -1,3 +1,3 @@
 # Analize Numerike 2
 Detyrat dhe punimi seminarik
-Punoj Milot Sheholli, Gent Jashari
+# Punoj Milot Sheholli, Gent Jashari
