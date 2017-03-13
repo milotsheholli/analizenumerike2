@@ -1,0 +1,19 @@
+1) DONE, Errori: 
+Exception in thread "main" java.lang.NumberFormatException: For input string: "Exception per formatin e numrit"
+2) Paraqitet ArrayIndexOutOfBoundsException dhe ndalet programi
+3) Gabimi: ArithmeticException, programi nuk ekzekutohet
+4)  ERROR 3
+ DONE BAR
+ DONE
+5)9
+java.lang.ArrayIndexOutOfBoundsException: 9
+at ExceptionExample.methodX(ExceptionExample.java:47)
+at ExceptionExample.bar(ExceptionExample.java:33)
+at ExceptionExample.main(ExceptionExample.java:5)
+6) DONE METHODX
+DONE BAR
+DONE
+7) Ndodh gabim gjat kompajlimit
+8) Ne rreshtin C: 
+ERROR 1
+DONE
